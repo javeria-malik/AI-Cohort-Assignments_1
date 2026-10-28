@@ -1,0 +1,14 @@
+[
+    {
+        "title": "The Lion King",
+        "watched": true
+    },
+    {
+        "title": "Finding Nemo",
+        "watched": false
+    },
+    {
+        "title": "Coco",
+        "watched": false
+    }
+]
